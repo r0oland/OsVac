@@ -9,15 +9,16 @@ The goal is to improve the instructions and have easier access to both ready to 
 
 osVAC ist a universal connector system to connect for example electrical hand tools with a vacuum cleaner.
 
-## OsVac @ Thingiverse
-
-https://www.thingiverse.com/hobbyhimmel/collections/20080684/things
-
 ## Getting Started
 
 You can find ready to print files in the [stl](stl) folder.
 
-### Adapters
+A copy of the more in-depth instructions can be found [here](E:\OsVac\osVAC_documentation.pdf).
+
+There are lots of designs already on thingyverse for various tools.  
+[You can find them here.](https://www.thingiverse.com/hobbyhimmel/collections/20080684/things)
+
+## Adapters
 
 - Male Adapters
 - Female Adapters
