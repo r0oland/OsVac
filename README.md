@@ -13,7 +13,7 @@ osVAC ist a universal connector system to connect for example electrical hand to
 
 You can find ready to print files in the [stl](stl) folder.
 
-A copy of the more in-depth instructions can be found [here](E:\OsVac\osVAC_documentation.pdf).
+A copy of the more in-depth instructions can be found [here](osVAC_documentation.pdf).
 
 There are lots of designs already on thingyverse for various tools.  
 [You can find them here.](https://www.thingiverse.com/hobbyhimmel/collections/20080684/things)
